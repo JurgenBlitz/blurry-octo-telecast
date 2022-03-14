@@ -1,1 +1,1 @@
-https://7939-81-38-138-245.ngrok.io
+https://bfi.eu.ngrok.io/bfhome
